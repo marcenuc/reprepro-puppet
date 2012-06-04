@@ -1,0 +1,10 @@
+name    'reprepro-puppet'
+version '0.0.1'
+source 'git://github.com/marcenuc/reprepro-puppet.git'
+author 'Marcello Nuccio'
+license 'Apache License, Version 2.0'
+summary 'Puppet module for reprepro'
+description 'Module for reprepro configuration'
+project_page 'https://github.com/marcenuc/reprepro-puppet'
+
+#dependency 'puppetlabs/apache', '>= 0.0.4'
